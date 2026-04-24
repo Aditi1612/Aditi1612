@@ -1,6 +1,6 @@
 # Hi, I'm Aditi 👋
 
-**AI Engineer @ [Braindeck Inc.](https://braindeck.ai)** · Seoul, South Korea
+**AI Engineer @Braindeck Inc. · Seoul, South Korea
 
 I build and research language models — from fine-tuning small models (2B–35B) for domain-specific tasks to deploying production-grade LLM pipelines. My research spans automated test case generation, toxicity prediction, speech processing for dysarthric speakers, and LLM-guided program repair.
 
